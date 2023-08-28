@@ -10,6 +10,6 @@
 
 7860网址/vms 
 
-变量设置参考即可，https://github.com/dsadsadsss/java-wanju.git
+其他变量设置参考即可，https://github.com/dsadsadsss/java-wanju.git
 
 这个是他的docker化
